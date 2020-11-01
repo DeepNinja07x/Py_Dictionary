@@ -3,7 +3,7 @@
 ## Steps:
 -  I would suggest you to create an issue for the development you want to make in the project. Though it isn't mandatory.
   
--  Fork this [repository](https://github.com/DeepNinja07x/To-Do-App)
+-  Fork this [repository](https://github.com/DeepNinja07x/Py_Dictionary)
   
 -  Clone the forked https://github.com/<Your_Username>/To-Do-App
     > git clone https://github.com/<Your_Username>/To-Do-App
