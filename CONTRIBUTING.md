@@ -32,7 +32,7 @@
 
 - Add the upstream (main project's) repo's URL
 
-    > git remote add upstream https://github.com/DeepNinja07x/To-Do-App.git
+    > git remote add upstream https://github.com/DeepNinja07x/Py_Dictionary.git
 
 - Now fetch all the new commits from upstream to your local repo.
 
