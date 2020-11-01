@@ -5,7 +5,7 @@
   
 -  Fork this [repository](https://github.com/DeepNinja07x/Py_Dictionary)
   
--  Clone the forked https://github.com/<Your_Username>/To-Do-App
+-  Clone the forked https://github.com/<Your_Username>/Py_Dictionary
     > git clone https://github.com/<Your_Username>/To-Do-App
 
 -  Create new branch 
