@@ -6,8 +6,7 @@
 -  Fork this [repository](https://github.com/DeepNinja07x/Py_Dictionary)
   
 -  Clone the forked https://github.com/<Your_Username>/Py_Dictionary
-    > git clone https://github.com/<Your_Username>/To-Do-App
-
+    > git clone https://github.com/<Your_Username>/Py_Dictionary.git
 -  Create new branch 
     > git checkout -b <Your_Branch_Name>
 
@@ -21,8 +20,6 @@
     > git push -u origin <Name_Of_Your_Branch>
  
 -  Create your pull request [Try to Mention the related issue for your PR] 
-
--  Add your details in [__Contributors.md__](https://github.com/DeepNinja07x/To-Do-App/blob/master/Contributors.md) file.
 
 <br/>
 
